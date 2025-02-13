@@ -1,0 +1,1 @@
+The goal of our project is to classify whether an audio input contains sounds from dog, cats, or birds. Then, we want to see if there are potential distinctions among various breeds each respective animal. To do this, we will train a Recurrent Neural Network (RNN) on structured audio data.
