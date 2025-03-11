@@ -2,3 +2,9 @@
 audio_data2_spectrogram.csv
 Plots
 audio_data3_spectrogram.csv
+audio_data7_spec_test.csv
+audio_data7_spec_train.csv
+final_model_CNN_MFCC_bird.pth
+final_model_CNN_Spec_bird.pth
+final_model_CNN_Spec.pth
+final_model_CNN_MFCC.pth
